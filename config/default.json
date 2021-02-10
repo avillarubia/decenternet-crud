@@ -1,0 +1,4 @@
+{
+  "MONGO_URI": "mongodb://localhost/decenternet_exam",
+  "JWT_SECRET": "1234"
+}

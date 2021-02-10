@@ -1,0 +1,9 @@
+/.old.*
+/.rar
+/.vscode
+
+/build
+/coverage
+/logs
+/node_modules
+/public/uploads/
